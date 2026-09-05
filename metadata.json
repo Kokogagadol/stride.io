@@ -1,0 +1,6 @@
+{
+  "name": "Pencatat Aktivitas Lari",
+  "description": "Aplikasi web pelacak aktivitas lari ala Strava dengan pencatatan jarak (km), durasi, pace, visualisasi performa mingguan, dan integrasi Google Sheets via Google Apps Script secara real-time.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
